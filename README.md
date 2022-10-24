@@ -1,5 +1,4 @@
 # UXDesign-Travel-App
 
 
-See the Demo here: https://www.figma.com/file/7HvpqWTaQ1RRZXsxI4zIDS/WanderOn?node-id=168%3A1393
-![image](https://user-images.githubusercontent.com/99050861/197455359-ad697ca8-6128-4c49-822b-d83a810ce989.png)
+See the Demo here: https://www.figma.com/proto/7HvpqWTaQ1RRZXsxI4zIDS/WanderOn?scaling=scale-down&page-id=0%3A1&node-id=2%3A2&starting-point-node-id=2%3A2&show-proto-sidebar=1
