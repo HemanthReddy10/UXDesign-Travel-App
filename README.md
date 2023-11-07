@@ -9,13 +9,6 @@ See the Demo here: https://www.figma.com/proto/7HvpqWTaQ1RRZXsxI4zIDS/WanderOn?s
 
 This README provides step-by-step instructions on how to access and interact with the Figma design project using the provided Figma design link.
 
-### Prerequisites
-
-Before you begin, make sure you have the following prerequisites:
-
-1. An internet connection.
-2. A web browser with Figma support. Figma is supported on popular browsers such as Google Chrome, Mozilla Firefox, and Safari.
-
 ### Steps to Run the Figma Design Project
 
 1. Open your web browser.
